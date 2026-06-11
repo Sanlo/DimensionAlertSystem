@@ -1,0 +1,6 @@
+{
+  "name": "SPC Dimension Monitoring",
+  "description": "Real-time SPC Dimensional Monitoring & Control Dashboard for factory quality assurance and automated alert dispatch cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
